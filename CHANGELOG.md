@@ -1,5 +1,12 @@
 # Changelog
 
+## v3.0
+
+*2021-04-29 - Update 206.1*
+
+- Timer position will now move with the police assault banner.
+- Reworked code.
+
 ## v2.0
 
 *2020-01-07 - Update 199*
